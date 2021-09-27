@@ -759,6 +759,7 @@ i:before {
 
 .main_menu_area_two .menu_inner_area {
   margin-top: 0px;
+  background: white;
 }
 
 .main_menu_area_two .menu_inner_area .navbar.navbar-default {
@@ -2138,7 +2139,7 @@ i:before {
 
 .since_area:before {
   content: "";
-  background: rgba(47, 44, 61, 0.92);
+  /*background: rgba(47, 44, 61, 0.92);*/
   position: absolute;
   left: 0px;
   top: 0px;
@@ -2148,7 +2149,7 @@ i:before {
 }
 
 .since_area .bcg {
-  background: url(../img/since-bg.jpg) no-repeat fixed center center;
+  background: url(../img/dar-es-salaam.jpg) no-repeat fixed center center;
   background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
