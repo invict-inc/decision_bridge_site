@@ -3780,7 +3780,7 @@ i:before {
 /* Testimonials Area css
 ============================================================================================ */
 .testimonials_area {
-  background: #008037;
+  background: #f6f6f6;
   overflow: hidden;
   position: relative;
 }
@@ -3840,7 +3840,7 @@ i:before {
 .testimonial_slider .testimonial_item p {
   padding-top: 6px;
   font-size: 18px;
-  color: #fff;
+  color: #9b9b9b;
   font-family: "Lato", sans-serif;
   letter-spacing: .36px;
   line-height: 30px;
@@ -3873,7 +3873,7 @@ i:before {
 
 .testimonial_slider .testimonial_item .media .media-body h4 {
   font-size: 18px;
-  color: #fff;
+  color: black;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   padding-bottom: 10px;
@@ -3881,7 +3881,7 @@ i:before {
 
 .testimonial_slider .testimonial_item .media .media-body h5 {
   font-size: 16px;
-  color: #fff;
+  color: black;
   font-family: "Lato", sans-serif;
 }
 
@@ -5956,7 +5956,7 @@ i:before {
 /* Querry Contact Area css
 ============================================================================================ */
 .footer_weidget_area {
-  background: #353637;
+  background:white;
   padding: 80px 0px;
 }
 
@@ -5966,7 +5966,7 @@ i:before {
 
 .f_title h3 {
   font-size: 16px;
-  color: #fff;
+  color:black;
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   letter-spacing: .32px;
@@ -5987,7 +5987,7 @@ i:before {
 
 .about_widget h5 {
   font-size: 15px;
-  color: #bfc0c0;
+  color: black;
   font-family: "Montserrat", sans-serif;
   letter-spacing: .30px;
   padding: 8px 0px 40px 0px;
@@ -5995,7 +5995,7 @@ i:before {
 
 .about_widget p {
   font-size: 15px;
-  color: #797979;
+  color: black;
   line-height: 21px;
   letter-spacing: .28px;
 }
@@ -6008,7 +6008,7 @@ i:before {
   font-size: 15px;
   line-height: 36px;
   font-family: "Montserrat", sans-serif;
-  color: rgba(255, 255, 255, 0.6);
+  color: black;
   -webkit-transition: all 300ms linear 0s;
   -o-transition: all 300ms linear 0s;
   transition: all 300ms linear 0s;
@@ -6032,7 +6032,7 @@ i:before {
 
 .subscrib_widget .mailchimp .subscrib_form input {
   display: block;
-  border: 2px solid #4a4a4b;
+  border: 2px solid #2d2b34;
   background: transparent;
   border-radius: 0px;
   height: 55px;
@@ -6041,7 +6041,7 @@ i:before {
   -webkit-box-shadow: none;
   box-shadow: none;
   font-size: 15px;
-  color: rgba(255, 255, 255, 0.5);
+  color: black;
   letter-spacing: .30px;
   font-family: "Montserrat", sans-serif;
   margin-bottom: 30px;

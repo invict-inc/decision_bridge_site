@@ -3,8 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="b5b9d1a9-0ba5-4508-8628-6848c27fd176" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-2col.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-2col.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-3col.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-3col.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-fullwidth.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-fullwidth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business.html" beforeDir="false" afterPath="$PROJECT_DIR$/business.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/cases-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/company-history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/company-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/company-overview.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/financial.html" beforeDir="false" afterPath="$PROJECT_DIR$/financial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marketing.html" beforeDir="false" afterPath="$PROJECT_DIR$/marketing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partner.html" beforeDir="false" afterPath="$PROJECT_DIR$/partner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private-banking.html" beforeDir="false" afterPath="$PROJECT_DIR$/private-banking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects-3col.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-3col.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects-4col.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-4col.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects-fullcol.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-fullcol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales-trade.html" beforeDir="false" afterPath="$PROJECT_DIR$/sales-trade.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stragetic-planning.html" beforeDir="false" afterPath="$PROJECT_DIR$/stragetic-planning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testimonial.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wealth-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/wealth-management.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +85,8 @@
       <workItem from="1632218533175" duration="5302000" />
       <workItem from="1632418037493" duration="3285000" />
       <workItem from="1632495311797" duration="129000" />
-      <workItem from="1632511073526" duration="18076000" />
+      <workItem from="1632511073526" duration="20977000" />
+      <workItem from="1634125182323" duration="3394000" />
     </task>
     <servers />
   </component>
