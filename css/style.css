@@ -123,6 +123,9 @@ i:before {
 .pad_100 {
   padding: 100px 0px;
 }
+.pad_50 {
+  padding: 50px 0px;
+}
 
 /* Main title css
 ============================================================================================ */
@@ -200,8 +203,8 @@ i:before {
   background: #008037;
   height: 3px;
   position: absolute;
-  bottom: 0px;
-  left: 0px;
+  bottom: 10px;
+  left: 40%;
 }
 
 .c_left_title {
@@ -2139,7 +2142,7 @@ i:before {
 
 .since_area:before {
   content: "";
-  /*background: rgba(47, 44, 61, 0.92);*/
+  background: rgba(0, 0, 0, 0.5);
   position: absolute;
   left: 0px;
   top: 0px;
@@ -3967,7 +3970,7 @@ i:before {
 /* End testimonial_area_three css
 ============================================================================================ */
 .testimonial_area_four .testi_inner {
-  padding: 135px 0px 140px;
+  padding: 50px 0px 0px;
 }
 
 /* Start Executive Manager Profile Area css
